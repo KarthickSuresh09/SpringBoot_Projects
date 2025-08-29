@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: macbookair
+Build-Jdk: 21.0.6
+Implementation-Title: Spring-Boot-Languages
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spring-boot-languages
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Spring-Boot-Languages
+Created-By: Maven Integration for Eclipse
+
